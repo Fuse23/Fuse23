@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 
   <a href="https://t.me/Fuse23i">
-    <img align="left" alt="Eric's Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+    <img align="left" alt="Eric's Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.22.0/icons/telegram.svg" />
   </a>
   <a href="https://www.linkedin.com/in/Fuse23">
-    <img align="left" alt="Eric's Linkdein" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="Eric's Linkdein" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.22.0/icons/linkedin.svg" />
   </a>
   <a href="mailto:ivan.brysyakin@gmail.com">
-    <img align="left" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+    <img align="left" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.22.0/icons/gmail.svg" />
   </a>
