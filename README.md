@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Ivan</h2>
+<h2 align="center">Hi there 👋</h2>
 
 <!--
 **Fuse23/Fuse23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
