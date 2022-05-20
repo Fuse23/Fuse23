@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning in School 21 (Ecole 42)
-[![falarm's 42 stats](https://badge42.vercel.app/api/v2/cl23rylyn001609lbgc4t4lzn/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
+
+  [![falarm's 42 stats](https://badge42.vercel.app/api/v2/cl23rylyn001609lbgc4t4lzn/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
