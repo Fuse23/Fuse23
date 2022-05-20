@@ -19,12 +19,12 @@ Here are some ideas to get you started:
   [![falarm's 42 stats](https://badge42.vercel.app/api/v2/cl23rylyn001609lbgc4t4lzn/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
   
 - 📫 How to reach me:
-<a href="https://t.me/Fuse23i">
-  <img align="left" alt="Eric's Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/Fuse23">
-  <img align="left" alt="Eric's Linkdein" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:ivan.brysyakin@gmail.com">
-<img align="left" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
-</a>
+  <a href="https://t.me/Fuse23i">
+    <img align="left" alt="Eric's Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/Fuse23">
+    <img align="left" alt="Eric's Linkdein" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="mailto:ivan.brysyakin@gmail.com">
+    <img align="left" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+  </a>
