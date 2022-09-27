@@ -1,4 +1,3 @@
-// <h2 align="center">Hi there 👋</h2>
 ![image](https://user-images.githubusercontent.com/57636684/192575568-db8455c2-b4c6-4e5b-b155-5e1a5ca56607.png)
 
 <!--
@@ -18,6 +17,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning in School 21 (Ecole 42)
 
   [![falarm's 42 stats](https://badge42.vercel.app/api/v2/cl23rylyn001609lbgc4t4lzn/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuse23)](https://github.com/anuraghazra/github-readme-stats)
   
 - 📫 How to reach me:
 
