@@ -1,4 +1,5 @@
-<h2 align="center">Hi there 👋</h2>
+// <h2 align="center">Hi there 👋</h2>
+![image](https://user-images.githubusercontent.com/57636684/192575568-db8455c2-b4c6-4e5b-b155-5e1a5ca56607.png)
 
 <!--
 **Fuse23/Fuse23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
