@@ -14,16 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🌱 I’m currently learning in School 21 (Ecole 42)
+- 📫 How to reach me:
 
   [![falarm's 42 stats](https://badge42.vercel.app/api/v2/cl23rylyn001609lbgc4t4lzn/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
 -->
 ---
+|---|---|
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuse23&hide=issues&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuse23&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|
 ---
-  
-- 📫 How to reach me:
 
+[![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.brysyakin@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fuse23i)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Fuse23)
+
+<!--
   <a href="https://t.me/Fuse23i">
     <img align="left" alt="Eric's Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.22.0/icons/telegram.svg" />
   </a>
@@ -33,3 +38,4 @@ Here are some ideas to get you started:
   <a href="mailto:ivan.brysyakin@gmail.com">
     <img align="left" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.22.0/icons/gmail.svg" />
   </a>
+-->
