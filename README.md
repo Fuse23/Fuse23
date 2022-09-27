@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fuse23i)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Fuse23)
 
+![](https://komarev.com/ghpvc/?username=Fuse23)
 <!--
   <a href="https://t.me/Fuse23i">
     <img align="left" alt="Eric's Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.22.0/icons/telegram.svg" />
