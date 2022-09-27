@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🌱 I’m currently learning in School 21 (Ecole 42)
 
   [![falarm's 42 stats](https://badge42.vercel.app/api/v2/cl23rylyn001609lbgc4t4lzn/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuse23&hide=contribs,issues&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuse23&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuse23&hide=contribs,issues&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuse23&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 - 📫 How to reach me:
 
